@@ -1,0 +1,25 @@
+# Секреты и данные — никогда не должны попасть в образ
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.session
+
+# Разработческое окружение и артефакты
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.git/
+.gitignore
+.dockerignore
+
+# Не нужны в образе для запуска
+tests/
+docs/
+README.md

@@ -1,0 +1,1361 @@
+{
+ "items": [
+  {
+   "id": 36606032,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 10178313,
+   "user_ids": [
+    10178313
+   ],
+   "user": {
+    "avatar": null,
+    "pro": true,
+    "no_competitors_ads": null,
+    "response_rate": 87,
+    "public_url": null,
+    "is_deleted": false,
+    "user_hash": "47f66110-3588-404c-ba93-de54a8fa2d15",
+    "hidden_delete": false,
+    "company_name": null,
+    "logo": null,
+    "response_time": 25417,
+    "id": 10178313,
+    "is_banned": false,
+    "username": "WRX",
+    "response_info": "Отвечает на 87% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 10178313,
+   "title": "Процессор для ПК, Новый, Intel Core i5, 6 ядер",
+   "description": "НАРОДНЫЙ ПРОЦЕССОР.\nПроцессор Intel Core i5 12400F \nчастота 2.50Ghz up to 4.40Ghz\n6 ядер / 12 потоков. L3 Cashe 18MB\nсокет LGA1700 новый Гарантия 9 месяцев . \nесть Trade In.\n\nЕсть 10 штук \n\nотличный проц для современных задач и игр в cpu Z bench выбивает 700 попугаев.",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": null,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 178964,
+   "favorite_count": 173,
+   "callers_count": 88,
+   "writers_count": 129,
+   "is_vip": true,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 11590,
+   "old_price": 14000,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996700455350",
+   "images": [
+    {
+     "id": 793658924,
+     "is_main": true,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/59/d5/ae/processor-intel-core-i5-12400f-id-36606032-793658924.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/59/d5/ae/processor-intel-core-i5-12400f-id-36606032-793658924.jpeg",
+     "original_webp_url": "https://img5.lalafo.com/i/posters/original_webp/59/d5/ae/processor-intel-core-i5-12400f-id-36606032-793658924.webp",
+     "thumbnail_webp_url": "https://img5.lalafo.com/i/posters/api_webp/59/d5/ae/processor-intel-core-i5-12400f-id-36606032-793658924.webp",
+     "p_hash": "12380534799812556800"
+    }
+   ],
+   "created_time": 1718778347,
+   "updated_time": 1788622824,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [
+    1
+   ],
+   "paid_packages": [],
+   "score_order": 1786373551627,
+   "last_push_up": 1786373551627,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 2
+    },
+    {
+     "name": "campaign_show",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "is_ppv",
+     "value": 1
+    },
+    {
+     "name": "params",
+     "value": "{\"29\":2757,\"425\":27241,\"2903\":18057,\"2905\":20823}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 1
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": true,
+   "is_ppv": true,
+   "decoration_mask": 11,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-intel-core-i5-12400f-id-36606032"
+  },
+  {
+   "id": 114135974,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 10101467,
+   "user_ids": [
+    10101467
+   ],
+   "user": {
+    "avatar": "https://img5.lalafo.com/i/avatar/8c/66/b1/acaf534ce397b2aa7b7d163aec.png",
+    "pro": true,
+    "no_competitors_ads": null,
+    "response_rate": 64,
+    "public_url": null,
+    "is_deleted": false,
+    "user_hash": "4f8f69e4-ec2e-4f2d-b2e2-11320faf2dbb",
+    "hidden_delete": false,
+    "company_name": null,
+    "logo": null,
+    "response_time": 33120,
+    "id": 10101467,
+    "is_banned": false,
+    "username": "check.iT",
+    "response_info": "Отвечает на 64% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 10101467,
+   "title": "Процессор для ПК, Новый, AMD Ryzen 9, 12 ядер",
+   "description": "Процессор AMD Ryzen 9 7900X (AM5, BOX)\n\n- Архитектура Zen 4, платформа AM5\n- 12 ядер / 24 потока\n- Базовая частота 4.7 ГГц, Boost до 5.6 ГГц\n- Кэш L3: 64 МБ\n- Встроенная графика: AMD Radeon Graphics\n- Техпроцесс 5 нм\n- Поддержка DDR5, PCIe 5.0\n- Разблокированный множитель для оверклокинга\n- Энергоэффективные технологии Precision Boost 2, Precision Boost Overdrive, AMD EXPO (поддержка разгона памяти)\n- Совместимость с материнскими платами на чипсетах серии 600 (при наличии соответствующей версии BIOS)\n\nКомплектация: BOX-версия процессора (коробочная поставка).",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": null,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 4949,
+   "favorite_count": 4,
+   "callers_count": 0,
+   "writers_count": 1,
+   "is_vip": true,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 30000,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996500540654",
+   "images": [
+    {
+     "id": 903086256,
+     "is_main": true,
+     "width": 370,
+     "height": 331,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/72/c3/d3/a12ed6dfe2c74fc0dbc7a6dadf.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/72/c3/d3/a12ed6dfe2c74fc0dbc7a6dadf.jpeg",
+     "p_hash": "14068229547781560320"
+    }
+   ],
+   "created_time": 1789121258,
+   "updated_time": 1789389597,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [
+    1
+   ],
+   "paid_packages": [],
+   "score_order": 1789127168634,
+   "last_push_up": 1789127168634,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 2
+    },
+    {
+     "name": "campaign_show",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "is_ppv",
+     "value": 1
+    },
+    {
+     "name": "params",
+     "value": "{\"29\":2757,\"425\":27241,\"2903\":18063,\"2905\":21664}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 2
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": true,
+   "is_ppv": true,
+   "decoration_mask": 11,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-novyj-amd-ryzen-9-12-ader-id-114135974"
+  },
+  {
+   "id": 116256838,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 10101467,
+   "user_ids": [
+    10101467
+   ],
+   "user": {
+    "avatar": "https://img5.lalafo.com/i/avatar/8c/66/b1/acaf534ce397b2aa7b7d163aec.png",
+    "pro": true,
+    "no_competitors_ads": null,
+    "response_rate": 64,
+    "public_url": null,
+    "is_deleted": false,
+    "user_hash": "4f8f69e4-ec2e-4f2d-b2e2-11320faf2dbb",
+    "hidden_delete": false,
+    "company_name": null,
+    "logo": null,
+    "response_time": 33120,
+    "id": 10101467,
+    "is_banned": false,
+    "username": "check.iT",
+    "response_info": "Отвечает на 64% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 10101467,
+   "title": "Процессор для ПК, Новый, Intel Core i5",
+   "description": "Процессор Intel Core i5-14400F (LGA1700)\n\n- Сокет: LGA1700  \n- Архитектура: Intel Core 14‑го поколения (Raptor Lake Refresh)  \n- Ядра/потоки: 10 ядер (6 P‑cores + 4 E‑cores) / 16 потоков  \n- Частоты:  \n  - P‑cores: до 4.7 ГГц (Turbo)  \n  - E‑cores: до 3.5 ГГц (Turbo)  \n  - Базовые частоты соответствуют спецификации серии 14‑го поколения  \n- Кэш: 20 МБ Intel Smart Cache + 9.5 МБ L2 (суммарно по ядрам)  \n- Контроллер памяти: DDR4‑3200 и DDR5‑5600 (двухканальный)  \n- Поддержка интерфейсов: PCIe 5.0 (от CPU) и PCIe 4.0  \n- TDP (Processor Base Power): 65 Вт  \n- Максимальная температура: до 100°C (TJunction)  \n- Графика: отсутствует (индекс F; требуется дискретная видеокарта)  \n- Совместимость: материнские платы на чипсетах 600/700 серии под LGA1700 (возможна необходимость обновления BIOS)  \n- Поддерживаемые технологии: Intel Hyper‑Threading, Turbo Boost 2.0, Intel Thread Director, VT‑x/VT‑d, AES‑NI, AVX2, DL Boost и др.  \n- Рекомендовано для: игровых сборок с дискретной видеокартой, монтажа видео, многозадачности и производительных рабочих станций.\n\nКомплектация по изображению: сам процессор Intel Core i5‑14400F.",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": null,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 5197,
+   "favorite_count": 0,
+   "callers_count": 1,
+   "writers_count": 1,
+   "is_vip": true,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 14500,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996500540654",
+   "images": [
+    {
+     "id": 903067246,
+     "is_main": true,
+     "width": 370,
+     "height": 443,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/c9/9e/15/d51b660f93133d6f5bf94deac0.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/c9/9e/15/d51b660f93133d6f5bf94deac0.jpeg",
+     "p_hash": "10417186325518184448"
+    }
+   ],
+   "created_time": 1789113951,
+   "updated_time": 1789292036,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [
+    1
+   ],
+   "paid_packages": [],
+   "score_order": 1789116067627,
+   "last_push_up": 1789116067627,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 2
+    },
+    {
+     "name": "campaign_show",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "is_ppv",
+     "value": 1
+    },
+    {
+     "name": "params",
+     "value": "{\"29\":2757,\"425\":27241,\"2905\":20823}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 3
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": true,
+   "is_ppv": true,
+   "decoration_mask": 11,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-novyj-intel-core-i5-id-116256838"
+  },
+  {
+   "id": 50630234,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 2020541,
+   "user_ids": [
+    2020541
+   ],
+   "user": {
+    "avatar": "https://img5.lalafo.com/i/avatar/ed/b8/f0/abd74c60ebc1e3147c08913d93.jpeg",
+    "pro": true,
+    "no_competitors_ads": null,
+    "response_rate": 92,
+    "public_url": null,
+    "is_deleted": false,
+    "user_hash": "48cbd0fa-78a1-466d-a867-4b13f346e6a9",
+    "hidden_delete": false,
+    "company_name": null,
+    "logo": null,
+    "response_time": 570839,
+    "id": 2020541,
+    "is_banned": false,
+    "username": "🅖🅐🅜🅔🅢🅗🅞🅟",
+    "response_info": "Отвечает на 92% сообщений\nОбычно в течение нескольких дней"
+   },
+   "origin_user_id": 2020541,
+   "title": "Процессор для ПК, Б/у, AMD Ryzen 9, 12 ядер",
+   "description": "Процессоры на am4 сокет, все райзены\nathlon a8 9600k 4/4 500c\nryzen 3 1200 4/4 1800c\nryzen 5 1400 4/8 3200c\nryzen 5 1500x 4/8 3500c\nryzen 5 1600 6/12 3900c\nryzen 7 1700 8/16 4900c\nryzen 3 2200g 4/4 3900c\nryzen 5 2400g 4/8 4500c\nryzen 5 2600 6/12 4000c\nryzen 7 2700x 8/16 5500c\nryzen 5 3500 6/6 4900c\nryzen 5 3500x 6/6 5200c\nryzen 5 3600 6/12 6900c\nryzen 5 5500 6/12 7990c\nryzen 5 5600 6/12 11500c\nryzen 5 5600x 6/12 12500c\nryzen 7 5700x 8/16 15500c\nryzen 7 5700g 8/16 \nryzen 7 5700x3d 8/16 27900c\nryzen 9 5900x 12/24 25000\nесть также материнские платы к ним",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": null,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 756413,
+   "favorite_count": 534,
+   "callers_count": 324,
+   "writers_count": 417,
+   "is_vip": true,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 500,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996777797996",
+   "images": [
+    {
+     "id": 802384757,
+     "is_main": true,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/f1/d1/aa/processory-na-am4-soket-vse-rajzeny-id-50630234-802384757.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/f1/d1/aa/processory-na-am4-soket-vse-rajzeny-id-50630234-802384757.jpeg",
+     "original_webp_url": "https://img5.lalafo.com/i/posters/original_webp/f1/d1/aa/processory-na-am4-soket-vse-rajzeny-id-50630234-802384757.webp",
+     "thumbnail_webp_url": "https://img5.lalafo.com/i/posters/api_webp/f1/d1/aa/processory-na-am4-soket-vse-rajzeny-id-50630234-802384757.webp",
+     "p_hash": "16812663832017510400"
+    }
+   ],
+   "created_time": 1725559806,
+   "updated_time": 1789455797,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [
+    1
+   ],
+   "paid_packages": [],
+   "score_order": 1785772765195,
+   "last_push_up": 1785772765195,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 2
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "is_ppv",
+     "value": 1
+    },
+    {
+     "name": "params",
+     "value": "{\"29\":2756,\"425\":27241,\"2903\":18063,\"2905\":21664}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 4
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": true,
+   "decoration_mask": 11,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processory-na-am4-soket-vse-rajzeny-id-50630234"
+  },
+  {
+   "id": 116363941,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 17941357,
+   "user_ids": [
+    17941357
+   ],
+   "user": {
+    "is_deleted": false,
+    "user_hash": "8ed1569a-2b5a-4015-b84f-b9c4f5ade1ff",
+    "hidden_delete": false,
+    "response_time": 52279,
+    "id": 17941357,
+    "avatar": "https://img5.lalafo.com/i/avatar/78/a5/7f/4f0598fbafd11a6cf9cadab25f.png",
+    "pro": false,
+    "is_banned": false,
+    "response_rate": 89,
+    "username": "Alimbek",
+    "response_info": "Отвечает на 89% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 17941357,
+   "title": "Процессор для ПК, Б/у, Intel Core i7, 12 ядер",
+   "description": "🔥 i7-12700K + Gigabyte Z690 UD DDR5 — всего 23 000 сом!\n\n💻 Intel Core i7-12700K\n• 12 ядер / 20 потоков\n• До 5.0 ГГц Turbo\n• LGA1700\n\n🖥 Gigabyte Z690 UD DDR5\n• DDR5\n• 4 слота ОЗУ\n• PCIe 5.0\n• Отличная плата для мощной игровой сборки\n\n✅ Процессор + материнская плата\n✅ Полностью рабочие\n✅ Можно проверить перед покупкой\n\n💰 Цена: 23 000 сом за комплект \n\n📍 Бишкек\n🚚 Возможна доставка",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": false,
+   "lat": 42.8676593,
+   "lng": 74.6263186,
+   "views": 0,
+   "impressions": 111,
+   "favorite_count": 0,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 23000,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996505506611",
+   "images": [
+    {
+     "id": 903542925,
+     "is_main": true,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/50/5c/e6/caf6170745bd5a42c9d984937b.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/50/5c/e6/caf6170745bd5a42c9d984937b.jpeg",
+     "p_hash": "17588065009148641280"
+    }
+   ],
+   "created_time": 1789452531,
+   "updated_time": 1789452649,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789452649380,
+   "last_push_up": 1789452649380,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"29\":2756,\"425\":27241,\"2903\":18063,\"2905\":21683}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 1
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 0,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-bu-intel-core-i7-12-ader-id-116363941"
+  },
+  {
+   "id": 114650290,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 16587799,
+   "user_ids": [
+    16587799
+   ],
+   "user": {
+    "avatar": null,
+    "pro": true,
+    "response_rate": 100,
+    "public_url": null,
+    "is_deleted": false,
+    "user_hash": "c380a5fb-f053-4831-b9ca-f14e510b0296",
+    "hidden_delete": false,
+    "company_name": null,
+    "logo": null,
+    "response_time": 33598,
+    "id": 16587799,
+    "is_banned": false,
+    "username": "ghostyler",
+    "response_info": "Отвечает на 100% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 16587799,
+   "title": "Процессор для ПК, Новый, AMD Ryzen 5, 6 ядер",
+   "description": "Новый, запечатанный Ryzen 5 5600.\n▫️AM4\n▫️6 ядер/12 потоков\n▫️4.4 ГГц\n▫️65 Ватт ТДП\n✅ Цена - 9900с. окончательно. Время на проверку сколько понадобится.",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": false,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 145,
+   "favorite_count": 2,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 9900,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996773196633",
+   "images": [
+    {
+     "id": 903537804,
+     "is_main": true,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/3c/a3/0a/be853474ab1f1993d682f1e7e2.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/3c/a3/0a/be853474ab1f1993d682f1e7e2.jpeg",
+     "p_hash": "11230962185805731840"
+    },
+    {
+     "id": 903537808,
+     "is_main": false,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/6f/47/0e/0a042b3d85aaa3b8465e37f621.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/6f/47/0e/0a042b3d85aaa3b8465e37f621.jpeg",
+     "p_hash": "11334403798761242624"
+    },
+    {
+     "id": 903537810,
+     "is_main": false,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/4e/f9/53/76f4c0f65fee6514487daf23e7.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/4e/f9/53/76f4c0f65fee6514487daf23e7.jpeg",
+     "p_hash": "10756970135592398848"
+    }
+   ],
+   "created_time": 1789450412,
+   "updated_time": 1789451011,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789450963192,
+   "last_push_up": 1789450963192,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"29\":2757,\"2905\":21677,\"2903\":18057,\"425\":27236}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 2
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 8,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-novyj-amd-ryzen-5-6-ader-id-114650290"
+  },
+  {
+   "id": 97098760,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 13945634,
+   "user_ids": [
+    13945634
+   ],
+   "user": {
+    "is_deleted": false,
+    "user_hash": "f5bafaa4-44ee-4d52-bdf6-904f286747ac",
+    "hidden_delete": false,
+    "response_time": 55998,
+    "id": 13945634,
+    "avatar": null,
+    "pro": false,
+    "is_banned": false,
+    "response_rate": 50,
+    "username": "rest",
+    "response_info": "Отвечает на 50% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 13945634,
+   "title": "Процессор Intel Core i5-7500 (Kaby Lake) - Сокет: LGA1151 -",
+   "description": "Процессор Intel Core i5-7500 (Kaby Lake)\n\n- Сокет: LGA1151\n- Ядра/потоки: 4/4\n- Частота: 3.40 ГГц (Turbo до 3.8 ГГц)\n- Кэш: 6 МБ SmartCache\n- Техпроцесс: 14 нм\n- TDP: 65 Вт\n- Встроенная графика: Intel HD Graphics 630 (1150 МГц, поддержка 4K)\n- Поддержка памяти: DDR4-2133/2400, двухканальный режим\n- Инструкции и технологии: Intel 64, SSE4.1/4.2, AVX2, VT-x, VT-d, Intel SpeedStep, Intel Turbo Boost 2.0\n- Совместимость: чипсеты 100/200 серии (например, H110/B250/H270/Z270) при наличии актуального BIOS\n\nПодходит для офисных задач, учебы, мультимедиа и игр уровня mid-range. В комплекте — процессор в пластиковом блистере. Кулер не прилагается.",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": null,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 162,
+   "favorite_count": 0,
+   "callers_count": 0,
+   "writers_count": 1,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 3000,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996553740873",
+   "images": [
+    {
+     "id": 903520286,
+     "is_main": true,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/9c/84/9a/bef3765231956ce379007acb73.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/9c/84/9a/bef3765231956ce379007acb73.jpeg",
+     "original_webp_url": "https://img5.lalafo.com/i/posters/original_webp/9c/84/9a/bef3765231956ce379007acb73.webp",
+     "thumbnail_webp_url": "https://img5.lalafo.com/i/posters/api_webp/9c/84/9a/bef3765231956ce379007acb73.webp",
+     "p_hash": "12486813420181202944"
+    }
+   ],
+   "created_time": 1789442228,
+   "updated_time": 1789442249,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789442249062,
+   "last_push_up": 1789442249062,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"2903\":18055,\"2905\":20823}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 3
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 0,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-intel-core-i5-4-ader-id-97098760"
+  },
+  {
+   "id": 112911827,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 13945634,
+   "user_ids": [
+    13945634
+   ],
+   "user": {
+    "is_deleted": false,
+    "user_hash": "f5bafaa4-44ee-4d52-bdf6-904f286747ac",
+    "hidden_delete": false,
+    "response_time": 55998,
+    "id": 13945634,
+    "avatar": null,
+    "pro": false,
+    "is_banned": false,
+    "response_rate": 50,
+    "username": "rest",
+    "response_info": "Отвечает на 50% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 13945634,
+   "title": "Процессор Intel Core i7-6700 (Skylake) - Серия: Intel Core i7",
+   "description": "Процессор Intel Core i7-6700 (Skylake)\n\n- Серия: Intel Core i7, поколение Skylake\n- Модель: i7-6700, маркировка SR2L2\n- Базовая частота: 3.4 ГГц\n- Турбо-частота: до 4.0 ГГц\n- Ядер/потоков: 4/8 (Hyper-Threading)\n- Кэш: 8 МБ Intel Smart Cache\n- Техпроцесс: 14 нм\n- Разъём: LGA1151\n- Поддержка памяти: DDR4/DDR3L (двухканальная)\n- Интегрированная графика: Intel HD Graphics 530\n- TDP: 65 Вт\n- Инструкции и технологии: Intel VT-x/VT-d, AES-NI, AVX2, Quick Sync Video и др.\n- Подойдёт для офисных и домашних ПК, работы с фото/видео и игр в паре с видеокартой\n- В комплекте: процессор в блистерной упаковке (без кулера)",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": null,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 168,
+   "favorite_count": 0,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 6000,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996553740873",
+   "images": [
+    {
+     "id": 903520106,
+     "is_main": true,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/5b/29/40/4414a6f105bec978938021010b.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/5b/29/40/4414a6f105bec978938021010b.jpeg",
+     "original_webp_url": "https://img5.lalafo.com/i/posters/original_webp/5b/29/40/4414a6f105bec978938021010b.webp",
+     "thumbnail_webp_url": "https://img5.lalafo.com/i/posters/api_webp/5b/29/40/4414a6f105bec978938021010b.webp",
+     "p_hash": "13100209035113420800"
+    },
+    {
+     "id": 903520107,
+     "is_main": false,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/13/3d/41/c7c772373e683d643c8eca29f2.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/13/3d/41/c7c772373e683d643c8eca29f2.jpeg",
+     "original_webp_url": "https://img5.lalafo.com/i/posters/original_webp/13/3d/41/c7c772373e683d643c8eca29f2.webp",
+     "thumbnail_webp_url": "https://img5.lalafo.com/i/posters/api_webp/13/3d/41/c7c772373e683d643c8eca29f2.webp",
+     "p_hash": "17192377850542878720"
+    }
+   ],
+   "created_time": 1789442064,
+   "updated_time": 1789442111,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789442111116,
+   "last_push_up": 1789442111116,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"2905\":21683,\"2903\":18055}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 4
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 0,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-intel-core-i7-4-ader-id-112911827"
+  },
+  {
+   "id": 114646416,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 14603282,
+   "user_ids": [
+    14603282
+   ],
+   "user": {
+    "is_deleted": false,
+    "user_hash": "0586beb5-b6ae-4eab-ab39-1c954f803843",
+    "hidden_delete": false,
+    "response_time": 37172,
+    "id": 14603282,
+    "avatar": "https://img5.lalafo.com/i/avatar/4c/6a/ed/46b3f2af77298ecf1a9477cd8d.jpeg",
+    "pro": false,
+    "is_banned": false,
+    "response_rate": 92,
+    "username": "Гаражный сервис ТО",
+    "response_info": "Отвечает на 92% сообщений\nОбычно в течение дня"
+   },
+   "origin_user_id": 14603282,
+   "title": "Intel i5 4690",
+   "description": "Intel i5 4690",
+   "city": "Нижняя Ала-Арча",
+   "hide_phone": false,
+   "hide_chat": true,
+   "submit_request": false,
+   "lat": 42.931169,
+   "lng": 74.6019735,
+   "views": 0,
+   "impressions": 231,
+   "favorite_count": 0,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 3000,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996550898250",
+   "images": [
+    {
+     "id": 903513294,
+     "is_main": true,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/43/c2/3e/c5cbc315e19b0df7c3ca331efd.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/43/c2/3e/c5cbc315e19b0df7c3ca331efd.jpeg",
+     "p_hash": "10935424115391653888"
+    },
+    {
+     "id": 903513295,
+     "is_main": false,
+     "width": 370,
+     "height": 658,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/21/b0/42/a2a53f7b08e46a9b81c6ad9d79.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/21/b0/42/a2a53f7b08e46a9b81c6ad9d79.jpeg",
+     "p_hash": "10423932176018165760"
+    }
+   ],
+   "created_time": 1789419966,
+   "updated_time": 1789420348,
+   "city_id": 103839,
+   "city_alias": "nizhnyaya-ala-archa",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789420053746,
+   "last_push_up": 1789420053746,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 5
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 0,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/nizhnyaya-ala-archa/ads/processor-dla-pk-id-114646416"
+  },
+  {
+   "id": 116358125,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 7125854,
+   "user_ids": [
+    7125854
+   ],
+   "user": {
+    "avatar": "https://img5.lalafo.com/i/avatar/5f/e1/31/554f766fa3d2e1131ae6043f68.jpeg",
+    "pro": true,
+    "response_rate": 100,
+    "public_url": null,
+    "is_deleted": false,
+    "user_hash": "a70cb76c-50ff-4a36-b956-c74de7fbeb0c",
+    "hidden_delete": false,
+    "company_name": null,
+    "logo": null,
+    "response_time": 5767,
+    "id": 7125854,
+    "is_banned": false,
+    "username": "goodboy computers",
+    "response_info": "Отвечает на 100% сообщений\nОбычно в течение 2 ч."
+   },
+   "origin_user_id": 7125854,
+   "title": "Процессор для ПК, Новый, Intel Core i5, 6 ядер",
+   "description": "Новый процессор с видеоядром Intel Core i5-12400, LGA1700, 2.5-4.4GHz,18MB Cache L3,EMT64,6 Cores+12 Threads,Tray, Alder Lake.\n\n🚚Доставка через курьерские службы по всему Кыргызстану.\n\n🪧 Адрес: ул. Кийизбаевой 31 (Восток-5)\n🕙 График: с 14:00 до 23:00🕗 По договоренности, по предварительному звонку.",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": false,
+   "lat": 42.8746212,
+   "lng": 74.5697617,
+   "views": 0,
+   "impressions": 274,
+   "favorite_count": 0,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 15500,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996773977449",
+   "images": [
+    {
+     "id": 903512452,
+     "is_main": true,
+     "width": 370,
+     "height": 334,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/85/e3/f9/a59ca53e3114187650d51cbac9.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/85/e3/f9/a59ca53e3114187650d51cbac9.jpeg",
+     "p_hash": "11857023184260012032"
+    }
+   ],
+   "created_time": 1789417343,
+   "updated_time": 1789417679,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789417679899,
+   "last_push_up": 1789417679899,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"425\":27236,\"29\":2757,\"2905\":20823,\"2903\":18057}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 6
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 8,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-novyj-intel-core-i5-6-ader-id-116358125"
+  },
+  {
+   "id": 116356694,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 7428661,
+   "user_ids": [
+    1933942,
+    7428661
+   ],
+   "user": {
+    "is_deleted": false,
+    "user_hash": "f1b29f0a-037b-4ce5-87de-1271dc8eed9b",
+    "hidden_delete": false,
+    "response_time": 209,
+    "id": 7428661,
+    "avatar": "https://img5.lalafo.com/i/avatar/00/5f/d9/d269632bae52e99f7b391d86c5.jpeg",
+    "pro": false,
+    "is_banned": false,
+    "response_rate": 67,
+    "username": "Ибрагим Акбарханов",
+    "response_info": "Отвечает на 67% сообщений\nОбычно в течение 3 мин."
+   },
+   "origin_user_id": 7428661,
+   "title": "Процессор для ПК, Б/у, Intel Core i9, 24 ядер",
+   "description": "Процессор Intel Core i9-14900K tray\n\nОсновные характеристики\nМодель: Intel Core i9-14900K\nСокет: LGA1700\nКомплектация: tray\n\nПроизводительность\nСуммарное количество ядер: 24\nКоличество потоков: 32\nКоличество производительных ядер: 8\nКоличество энергоэфективных ядер: 16\nОбъем кэш-памяти: 36 Мб\n\nТактовая частота\nМаксимальная тактовая частота в режиме Turbo: 6000 МГц\nМаксимальная тактовая частота производительных ядер: 5600 МГц\nМаксимальная тактовая частота энергоэфективных ядер: 4400 МГц\nБазовая тактовая частота производительных ядер: 3200 МГц\nБазовая тактовая частота энергоэфективных ядер: 2400 МГц\n\nСпецификации памяти\nМаксимальный объем памяти: 192 GB\nТипы памяти: DDR4-3200 / DDR5-5600\nКоличество каналов памяти: 2\nПропускная способность памяти: 89.6 GB/s\nПоддержка памяти ECC: есть \n\nВстроенная в процессор графическая система\nИнтегрированный GPU: Intel UHD Graphics 770\nБазовая частота графической системы: 300 МГц\nМаксимальная частота графической системы: 1650 МГц\nМаксимальное разрешение HDMI: 4096x2160 /60Hz\nМаксимальное разрешение DP: 7680x4320 /60Hz\n\nДополнительно\nРедакция PCI-Express: 4.0 / 5.0\nПоддерживаемое количество линий: 20\nБазовое значение TDP: 125W\nЗначение TDP в турборежиме: 253W",
+   "city": "Манас",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": false,
+   "lat": 40.94056876442343,
+   "lng": 72.99594953904179,
+   "views": 0,
+   "impressions": 278,
+   "favorite_count": 0,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 38000,
+   "old_price": null,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996707401103",
+   "images": [
+    {
+     "id": 903505394,
+     "is_main": true,
+     "width": 370,
+     "height": 370,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/fa/be/9c/ca3d41df65d07a67a51513b4f8.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/fa/be/9c/ca3d41df65d07a67a51513b4f8.jpeg",
+     "p_hash": "11499478278172618752"
+    }
+   ],
+   "created_time": 1789409907,
+   "updated_time": 1789410080,
+   "city_id": 103729,
+   "city_alias": "manas",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789410080621,
+   "last_push_up": 1789410080621,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"2905\":21684,\"2903\":18075,\"425\":27236,\"29\":2756}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 7
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 0,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/manas/ads/processor-dla-pk-bu-intel-core-i9-24-ader-id-116356694"
+  },
+  {
+   "id": 116349727,
+   "old_id": null,
+   "country_id": 12,
+   "status_id": 2,
+   "category_id": 4379,
+   "user_id": 8525012,
+   "user_ids": [
+    8525012
+   ],
+   "user": {
+    "is_deleted": false,
+    "user_hash": "8119ea53-97af-4b96-ae9b-5898f3599e60",
+    "hidden_delete": false,
+    "response_time": 8632,
+    "id": 8525012,
+    "avatar": "https://img5.lalafo.com/i/avatar/1d/1c/40/d63310729ceec0233fe683659f.jpeg",
+    "pro": false,
+    "is_banned": false,
+    "response_rate": 100,
+    "username": "ⓄⓇⒾⒼⒾⓃⒶⓁ ®tech",
+    "response_info": "Отвечает на 100% сообщений\nОбычно в течение 2 ч."
+   },
+   "origin_user_id": 8525012,
+   "title": "Продаю Intel Core i9-12900K LGA 1700 Всю инфу в инете можете найти",
+   "description": "Продаю Intel Core i9-12900K \nLGA 1700\nВсю инфу в инете можете найти. \nОтличное состояние\nРаботает идеально, любая проверка.",
+   "city": "Бишкек",
+   "hide_phone": false,
+   "hide_chat": false,
+   "submit_request": false,
+   "lat": 42.88027279879721,
+   "lng": 74.59106392580068,
+   "views": 0,
+   "impressions": 311,
+   "favorite_count": 1,
+   "callers_count": 0,
+   "writers_count": 0,
+   "is_vip": false,
+   "is_select": false,
+   "is_premium": false,
+   "is_negotiable": false,
+   "price": 35000,
+   "old_price": 37000,
+   "currency": "KGS",
+   "symbol": "COM",
+   "background": "#909090",
+   "mobile": "+996702220221",
+   "images": [
+    {
+     "id": 903472372,
+     "is_main": true,
+     "width": 370,
+     "height": 376,
+     "is_cv_image": false,
+     "original_url": "https://img5.lalafo.com/i/posters/original/36/97/89/fd992c854ddf51d9194bb89e11.jpeg",
+     "thumbnail_url": "https://img5.lalafo.com/i/posters/api/36/97/89/fd992c854ddf51d9194bb89e11.jpeg",
+     "p_hash": "9694624323873492992"
+    }
+   ],
+   "created_time": 1789391176,
+   "updated_time": 1789393278,
+   "city_id": 103184,
+   "city_alias": "bishkek",
+   "can_free_push": false,
+   "paid_features": [],
+   "paid_packages": [],
+   "score_order": 1789391368324,
+   "last_push_up": 1789391368324,
+   "tracking_info": [
+    {
+     "name": "ad_type",
+     "value": 1
+    },
+    {
+     "name": "feed_id",
+     "value": 6500
+    },
+    {
+     "name": "params",
+     "value": "{\"2905\":21684,\"2903\":18067}"
+    },
+    {
+     "name": "search_request_id",
+     "value": "2a82090d-4a9b-45ad-8a87-d401988dbaca"
+    },
+    {
+     "name": "feed_index",
+     "value": 8
+    }
+   ],
+   "is_freedom": false,
+   "response_type": 0,
+   "campaign_show": false,
+   "is_ppv": false,
+   "decoration_mask": 0,
+   "price_type": 1,
+   "ad_label": "Комплектующие для ПК",
+   "params": [],
+   "national_price": null,
+   "national_old_price": null,
+   "is_identity": false,
+   "url": "/bishkek/ads/processor-dla-pk-intel-core-i9-16-ader-id-116349727"
+  }
+ ],
+ "_links": {
+  "self": {
+   "href": "/v3/ads/search?category_id=4379&expand=url&page=1&sort_by=newest&search_request_id=2a82090d-4a9b-45ad-8a87-d401988dbaca"
+  },
+  "first": {
+   "href": "/v3/ads/search?category_id=4379&expand=url&page=1&sort_by=newest&search_request_id=2a82090d-4a9b-45ad-8a87-d401988dbaca"
+  },
+  "last": {
+   "href": "/v3/ads/search?category_id=4379&expand=url&page=16&sort_by=newest&search_request_id=2a82090d-4a9b-45ad-8a87-d401988dbaca"
+  },
+  "next": {
+   "href": "/v3/ads/search?category_id=4379&expand=url&page=2&sort_by=newest&search_request_id=2a82090d-4a9b-45ad-8a87-d401988dbaca&lai=0"
+  }
+ },
+ "_meta": {
+  "totalCount": 627,
+  "pageCount": 16,
+  "currentPage": 1,
+  "perPage": 40,
+  "feed": "category",
+  "feed_id": 6500
+ }
+}

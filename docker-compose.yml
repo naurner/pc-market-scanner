@@ -1,0 +1,20 @@
+services:
+  lalascaner:
+    build: .
+    container_name: lalascaner
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      # Весь репозиторий, а не только код: кнопка «Обновить с GitHub» в боте делает git pull прямо
+      # здесь (пакет установлен editable-режимом — см. Dockerfile), без пересборки образа. База в
+      # ./data сохраняется тем же путём — она уже часть этого каталога, отдельный volume не нужен.
+      - .:/app
+      # Тот же git-доступ, что уже настроен у вас на Mac (тем же ключом склонирован репозиторий) —
+      # без него git pull внутри контейнера не сможет авторизоваться на GitHub.
+      - ${HOME}/.ssh:/root/.ssh:ro
+    # Бот работает через long polling (исходящие соединения), входящих портов не требуется.
+    # Если запускаете Ollama тоже в Docker на этом же Mac — раскомментируйте, чтобы контейнер
+    # видел хост по имени host.docker.internal (на Linux-хосте вместо этого укажите network_mode: host).
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
